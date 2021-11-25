@@ -17,6 +17,8 @@ const int LedYellow   = 4;
 const int LedYellow2  = 2 ; 
 const int LedWhite    = 3 ;  
 const int LedGreen    = 1 ; 
+
+// Temps d'attente
 const int MS_DELAI    = 40;
 
 // Variable pour stocker la lecture analog de capteur de Son 
